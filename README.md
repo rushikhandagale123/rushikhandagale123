@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Khandagale</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Deep Learningand Computer Vision Based American Sign Language Recognition.**
+- 🔭 I’m currently working on **database project (Social media analytics plateform).**
 
-- 🌱 I’m currently learning **Spring Boot,Angular**
+- 🌱 I’m currently learning **Spring Boot,Angular,MERN STACK ,MONGOdb,(Full stack Developement)**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
 - 📫 How to reach me **rushikeshkhandagale2.skn.entc@gmail.com/7499501876**
 
-- 📄 Know about my experiences [I have completed My internship in Elite Software's As a Web developer](I have completed My internship in Elite Software's As a Web developer)
+- 📄 Know about my experiences [I have completed My internship in Elite Software's As a Web developer and current i am working as a Software trainee in Test Yantra Software Solution PVT LTD.
+- Contributed to diverse projects, mastering web services, web technologies, Java, Advanced Java, React, SQL, and JavaScript. Successfully developed and maintained web applications, achieving a 95% completion rate on assigned tasks. Acquired proficiency in RESTful APIs, enhancing client-server communication by 30%. Leveraged React to improve user interfaces, resulting in a 25% increase in user engagement. Managed databases using SQL, ensuring data integrity and achieving a 90% accuracy rate in query execution. Actively participated in debugging sessions,resolving software defects with a 98% success rate. Dedicated to ongoing learning, staying updated with emergingtechnologies and industry best practices.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
