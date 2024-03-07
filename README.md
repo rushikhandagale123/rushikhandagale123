@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot,Angular,MERN STACK ,MONGOdb,(Full stack Developement)**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning AND AI **
 
 - 📫 How to reach me **rushikeshkhandagale2.skn.entc@gmail.com/7499501876**
 
